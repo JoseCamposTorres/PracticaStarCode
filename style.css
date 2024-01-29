@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+    background-color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    height: 120px;
+    color: white;
+    gap: 20px;
+}
+
+li{
+    text-decoration: none;
+}
